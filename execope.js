@@ -1,4 +1,4 @@
-let temingresso =true
-let maiordeidade =false
+let maiordeidade=18
+let temingresso =false
 
-console.log("Acesso permitido?",temingresso && maiordeidade);
+console.log (maioridade >=18 && temingresso)
